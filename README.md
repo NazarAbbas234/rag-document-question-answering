@@ -188,7 +188,8 @@ This project demonstrates the full lifecycle of such a system — from ingestion
 ---------------------------------------- 
 
 ###Example run of the system:
-![Flask backend running](docs/test_retrieval_speed.PNG)
+![Flask backend running](https://raw.githubusercontent.com/NazarAbbas234/rag-document-question-answering/master/docs/test_retrieval_speed.PNG)
+
 
 
 
