@@ -185,9 +185,10 @@ This project demonstrates the full lifecycle of such a system — from ingestion
 
 ----------------------------------------
 ## 🖼️ Demo
-----------------------------------------
+---------------------------------------- 
 
 ###Example run of the system:
 ![Flask backend running](docs/test_retrieval_speed.PNG)
+
 
 
